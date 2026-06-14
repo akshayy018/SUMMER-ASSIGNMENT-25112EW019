@@ -1,0 +1,42 @@
+[33mcaaf253[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{0}: commit: Day 14 uploaded
+[33mcd22e93[m HEAD@{1}: Branch: renamed refs/heads/main to refs/heads/main
+[33mcd22e93[m HEAD@{3}: Branch: renamed refs/heads/main to refs/heads/main
+[33mcd22e93[m HEAD@{5}: commit: Day 12 uploaded
+[33m254451c[m HEAD@{6}: Branch: renamed refs/heads/main to refs/heads/main
+[33m254451c[m HEAD@{8}: commit: Day 13 uploaded
+[33mdb47676[m HEAD@{9}: Branch: renamed refs/heads/main to refs/heads/main
+[33mdb47676[m HEAD@{11}: commit: Day 12 uploaded
+[33m645ee17[m HEAD@{12}: Branch: renamed refs/heads/main to refs/heads/main
+[33m645ee17[m HEAD@{14}: Branch: renamed refs/heads/main to refs/heads/main
+[33m645ee17[m HEAD@{16}: commit: Day 11 uploaded
+[33m2f59daa[m HEAD@{17}: Branch: renamed refs/heads/main to refs/heads/main
+[33m2f59daa[m HEAD@{19}: commit: Day 10 uploaded
+[33m046c694[m HEAD@{20}: Branch: renamed refs/heads/main to refs/heads/main
+[33m046c694[m HEAD@{22}: Branch: renamed refs/heads/main to refs/heads/main
+[33m046c694[m HEAD@{24}: commit: Day 9 uploaded
+[33md8a7391[m HEAD@{25}: Branch: renamed refs/heads/main to refs/heads/main
+[33md8a7391[m HEAD@{27}: commit: Day 8 uploaded
+[33mc49faef[m HEAD@{28}: Branch: renamed refs/heads/main to refs/heads/main
+[33mc49faef[m HEAD@{30}: commit: Day 7 uploaded
+[33ma9f9fce[m HEAD@{31}: pull origin main --rebase (finish): returning to refs/heads/main
+[33ma9f9fce[m HEAD@{32}: pull origin main --rebase (pick): delete
+[33m9550cef[m HEAD@{33}: pull origin main --rebase (start): checkout 9550cef276df6a107dd9b37d76ba3970487a9810
+[33m2842bc0[m HEAD@{34}: commit: delete
+[33md3dd8fd[m HEAD@{35}: commit (amend): Day 7 uploaded
+[33m9550cef[m HEAD@{36}: Branch: renamed refs/heads/main to refs/heads/main
+[33m9550cef[m HEAD@{38}: commit: Day 8 uploaded
+[33m1867544[m HEAD@{39}: Branch: renamed refs/heads/main to refs/heads/main
+[33m1867544[m HEAD@{41}: commit: Day 7 uploaded
+[33m61a8d58[m HEAD@{42}: commit: Day 6 uploaded
+[33me24dd56[m HEAD@{43}: Branch: renamed refs/heads/main to refs/heads/main
+[33me24dd56[m HEAD@{45}: commit: Day 5 uploaded
+[33m49e212c[m HEAD@{46}: Branch: renamed refs/heads/main to refs/heads/main
+[33m49e212c[m HEAD@{48}: commit: Day 4 uploaded
+[33mc3bc2f9[m HEAD@{49}: Branch: renamed refs/heads/main to refs/heads/main
+[33mc3bc2f9[m HEAD@{51}: commit: Day 3 uploaded
+[33m1f68d3b[m HEAD@{52}: commit: remove compiled exe file
+[33m1c0a7a8[m HEAD@{53}: Branch: renamed refs/heads/main to refs/heads/main
+[33m1c0a7a8[m HEAD@{55}: commit: Day 2 uploaded
+[33m8f34b76[m HEAD@{56}: commit: remove compiled exe file
+[33m4da7581[m HEAD@{57}: Branch: renamed refs/heads/main to refs/heads/main
+[33m4da7581[m HEAD@{59}: commit (initial): Day 1 uploaded
